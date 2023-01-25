@@ -1,0 +1,16 @@
+body{
+ 	background-color: #59c1bd;
+   }
+
+h1, p {
+   font-family:candara;	
+ }
+
+td,th,table{
+	text-align:center;
+	font-family:Sans-Serif;
+	background-color: #a0e4cb;
+	border:solid 3px #59c1bd;
+	border-collapse:collapse;
+	height:35px;
+	}
